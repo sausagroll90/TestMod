@@ -1,0 +1,7 @@
+{
+	"TestMod:StrikeBlock" : {
+		"NAME" : "Strike Block",
+		"FLAVOR" : "Converts excess strike energy into block energy",
+		"DESCRIPTIONS" : ["Every time you play a card with #bstrike in its name, gain 2 #yBlock."]
+	}
+}

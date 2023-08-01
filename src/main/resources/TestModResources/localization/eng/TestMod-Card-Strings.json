@@ -1,0 +1,6 @@
+{
+	"TestMod:Incremental Strike" : {
+		"NAME" : "Incremental Strike",
+		"DESCRIPTION" : "Deal !D! damage. Permanently increase this card's damage by !M!."
+	}
+}

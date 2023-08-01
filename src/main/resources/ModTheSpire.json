@@ -1,0 +1,10 @@
+{
+	"modid" : "testmod",
+	"name" : "Test Mod",
+	"description" : "Learning to mod",
+	"author_list" : ["Me"],
+	"version" : "0.8.2",
+	"sts_version" : "12-22-2020",
+	"mts_version" : "3.19.1",
+	"dependencies" : ["basemod"]
+}
